@@ -1,4 +1,4 @@
-PKGBUILDs for SELinux support in Arch Linux
+PGBUILDs for SELinux support in Arch Linux
 ===========================================
 
 Complete documentation will soon be available at:
@@ -42,6 +42,9 @@ Now we start replacing core packages:
 
 Optionnal but very nice to have:
 * openssh-selinux findutils-selinux psmisc-selinux
+
+Unfinished Ports
+* setroubleshoot - tool from fedora - need to patch the refpolicy and package to reflect arch
 
 Policy
 ------
